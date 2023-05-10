@@ -1,7 +1,7 @@
 ![](gitgif.gif)
 
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for coding and creating meaningful projects. Here you'll find an overview of my skills, interests, and contributions.
+Welcome to my GitHub profile! I'm a passionate software developer with a love for coding and creating meaningful projects. Here you'll find an overview of my skills.
 
 ## Skills
 
